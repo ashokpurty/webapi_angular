@@ -1,15 +1,9 @@
-Webapi related to Angular frontend
-1. Download the file dist.zip from repro which is placed in this path 
-https://github.com/ashokpurty/frontend_angular/blob/b341262d4cbdcb4e660d1e99ec779fb5c1735296/dist.zip
-
-2. Unzipped "dist" in "C:\inetpub\wwwroot" path 
-3. open IIS and add new website
-4. Any name can be mentioned in site name and point the "Physical path" to the angular app e.g:
-    C:\inetpub\wwwroot\dist 
-5.  Application should be running successfully and user should be able to browser reference number calculator angular web app.
-
-Also source code can be download and can be build by using ng build commond
-1. Download the repository 
-2. Open the folder by using visual code editor.
-3. In angular cli terminal install npm packages if that is not install in system
-4. run the app with ng serve --open commond
+Host web api 
+1.Download the repro in local system.
+2. Open solution sln file with Vs2012 as solution is create using vs2012.Not sure but definitely it will work with 2012 higher version 
+3. Copy the "RestfulWebApi" folder in "C:\inetpub\wwwroot" path  
+2. Open IIS and add new website
+3. Any name can be mentioned in site name and point the "Physical path" to the angular app e.g:
+     C:\inetpub\wwwroot\RestfulWebApi
+4. Application port number MUST BE 9009 as that is mentioned in angular web application.
+5. Application should be running successfully and user should be able to browser the app app.
