@@ -1,0 +1,5 @@
+D:\Projects\Assingment\RestfulWebApi\BusinessService\obj\Debug\BusinessService.csprojResolveAssemblyReference.cache
+D:\Projects\Assingment\RestfulWebApi\BusinessService\bin\Debug\BusinessService.dll
+D:\Projects\Assingment\RestfulWebApi\BusinessService\bin\Debug\BusinessService.pdb
+D:\Projects\Assingment\RestfulWebApi\BusinessService\obj\Debug\BusinessService.dll
+D:\Projects\Assingment\RestfulWebApi\BusinessService\obj\Debug\BusinessService.pdb
